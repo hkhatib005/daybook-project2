@@ -19,7 +19,9 @@ Vite prints the local development address. `npm run preview` serves the producti
 
 Repository: https://github.com/hkhatib005/daybook-project2
 
-Live Netlify URL: Pending sign-in and deployment. Replace this line after publishing.
+Live Netlify URL: https://statuesque-lokum-966bef.netlify.app/
+
+Deployment: built locally with `npm run build` and uploaded to Netlify. GitHub auto-deploy is not connected. Netlify currently requires team access until public access is enabled.
 
 Netlify build command: `npm run build`.
 Publish directory: `dist`.
