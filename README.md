@@ -21,7 +21,7 @@ Repository: https://github.com/hkhatib005/daybook-project2
 
 Live Netlify URL: https://statuesque-lokum-966bef.netlify.app/
 
-Deployment: built locally with `npm run build` and uploaded to Netlify. GitHub auto-deploy is not connected. Netlify currently requires team access until public access is enabled.
+Deployment: built locally with `npm run build` and uploaded to Netlify. GitHub auto-deploy is not connected. The deployed app is publicly accessible.
 
 Netlify build command: `npm run build`.
 Publish directory: `dist`.
